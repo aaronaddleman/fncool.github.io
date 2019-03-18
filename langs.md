@@ -3,6 +3,7 @@ layout: page
 title: Programming Languages
 description: >
   My notes about programming languages
+key: page-langs
 ---
 
 ## Overview
