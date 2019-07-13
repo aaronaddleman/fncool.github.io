@@ -4,7 +4,7 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: https://images.app.goo.gl/cM9pVyHXRcaLHpyG9
+    src: https://arbordayblog.org/wp-content/uploads/2018/06/oak-tree-sunset-iStock-477164218-1080x608.jpg
 ---
 
 ## Starting again
