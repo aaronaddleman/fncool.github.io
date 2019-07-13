@@ -4,7 +4,7 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: https://ibb.co/gMCMPfr
+    src: https://images.app.goo.gl/cM9pVyHXRcaLHpyG9
 ---
 
 ## Starting again
